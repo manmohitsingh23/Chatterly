@@ -6,7 +6,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server,{
     cors: {
-        origin: "https://chatterly-3.onrender.com",// The configuration ensures that only requests coming from "http://localhost:4001" are accepted by the server, which is important for security when you have a frontend and backend running on different domains or ports.
+        origin: "http://localhost:4001",// The configuration ensures that only requests coming from "http://localhost:4001" are accepted by the server, which is important for security when you have a frontend and backend running on different domains or ports.
         methods: ["GET", "POST"]
     }
 });
