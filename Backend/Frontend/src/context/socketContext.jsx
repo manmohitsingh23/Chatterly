@@ -16,7 +16,7 @@ export const SocketProvider = ({ children }) => {
 
   useEffect(() => {
     if (authUser) {
-      const socket = io("https://chatterly-2.onrender.com", {
+      const socket = io("https://chatterly-3.onrender.com", {
         query: {
           userId: authUser.user._id,
         },
