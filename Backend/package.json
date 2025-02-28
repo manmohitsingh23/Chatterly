@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
-    "dev" : "nodemon index.js",
-    "build" : "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
+    "dev": "nodemon index.js",
+    "build": "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
   },
   "author": "",
   "license": "ISC",
@@ -20,7 +20,9 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.11.0",
-    "nodemon": "^3.1.9",
     "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
