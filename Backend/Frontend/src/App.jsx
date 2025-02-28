@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Left from './home/left/left';
-import Right from './home/right/right';
-import Logout from './home/left1/Logout';
+import Left from './home/left/Left.jsx';
+import Right from './home/right/Right.jsx';
+import Logout from './home/left1/Logout.jsx';
 import { useAuth } from './context/AuthProvider';
 import { Toaster } from 'react-hot-toast';
 import { Navigate, Route, Routes } from 'react-router-dom';
