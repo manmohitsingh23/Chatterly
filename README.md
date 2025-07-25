@@ -3,12 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Chatterly - README</title>
 </head>
 <body>
   <h1>Chatterly 💬 - Real-Time Chat Application</h1>
 
-  <p><strong>Author:</strong> Manmohit Singh 👨‍💻 (<a href="https://github.com/manmohitsingh23" target="_blank" rel="noopener noreferrer">GitHub Profile</a>)</p>
 
   <h2>Project Overview 🚀</h2>
   <p>Chatterly is a full-stack real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to sign up, log in, and chat in real-time with other online users.</p>
