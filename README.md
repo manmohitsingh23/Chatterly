@@ -70,4 +70,17 @@
   </ul>
 
   <h2>License 📜</h2>
-  <p>This project is licensed under
+  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT License</a>.</p>
+  <p>
+    Copyright &copy; 2025 Manmohit Singh<br />
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software...
+  </p>
+
+  <h2>Acknowledgments 🙏</h2>
+  <p>Big thanks to everyone who inspires me to code and the open-source community that makes projects like this possible ❤️.</p>
+  <p>If you use or modify this project, a shoutout to <strong>Manmohit Singh</strong> would be appreciated! 🙌</p>
+
+  <hr />
+  <p style="text-align:center; font-style: italic;">"Code, chat, and chill – because great conversations deserve great apps! 🎉🚀"</p>
+</body>
+</html>
